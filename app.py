@@ -1,6 +1,5 @@
 from flask import Flask
 import os
-from run import app as application
 
 
 from checker import has_open_port
